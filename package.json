@@ -1,0 +1,14 @@
+{
+  "name": "cannot-load-salesforce",
+  "version": "0.0.0",
+  "description": "A reproducible test case of loading salesforce web pages via safaridriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "^9.5.1"
+  }
+}
